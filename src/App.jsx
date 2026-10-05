@@ -1,12 +1,13 @@
 import { Routes, Route } from "react-router";
 import Home from "./pages/Home";
+import Counter from "./pages/Counter";
 
 function App() {
   return (
     <Routes>
       <Route path="/" element={<Home />} />
 
-      <Route path="/counter" element={<h1>Counter</h1>} />
+      <Route path="/counter" element={<Counter />} />
 
       <Route path="/todo" element={<h1>Todo</h1>} />
 
