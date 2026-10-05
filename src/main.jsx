@@ -6,7 +6,7 @@ import "./index.css";
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
-    <BrowserRouter basename="/dist">
+    <BrowserRouter basename="/react-lab">
       <App />
     </BrowserRouter>
   </StrictMode>,
