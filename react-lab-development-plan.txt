@@ -1,0 +1,120 @@
+React Lab 開発予定
+
+■ 1. Home
+- React Labのトップページ
+- 各実験ページへのカードリンク
+- Tailwind CSSでレイアウト
+- React Routerでページ遷移
+
+■ 2. Counter
+- useStateの基本
+- ＋1 / −1
+- Reset
+- ＋5 / −5
+- 上限・下限の設定
+- 偶数・奇数の表示
+- コンポーネント分割
+- Propsの練習
+
+■ 3. Todo
+- Todoの追加
+- Todoの削除
+- 完了・未完了の切り替え
+- Todoの編集
+- 検索・絞り込み
+- 件数表示
+- useStateと配列操作
+- LocalStorageへの保存
+- コンポーネント分割
+
+■ 4. API
+- fetchの基本
+- async / await
+- APIからデータ取得
+- Loading表示
+- Error処理
+- JSONデータの表示
+- GET通信
+- POST通信
+- APIレスポンスの加工
+
+■ 5. Weather
+- 天気APIを使う
+- 現在の天気取得
+- 都市検索
+- 気温・天気・湿度などを表示
+- Loading表示
+- Error処理
+- APIキーの扱い
+- useEffectの練習
+
+■ 6. Chart
+- グラフ表示
+- 折れ線グラフ
+- 棒グラフ
+- 円グラフ
+- 配列データをグラフ化
+- データの追加・変更
+- APIデータをグラフ化
+- Reactとグラフライブラリの連携
+
+■ 7. Test
+- Tailwind CSSの実験
+- Modal
+- Form
+- Input
+- Button
+- Animation
+- Loading
+- Alert
+- Tabs
+- Accordion
+- LocalStorage
+- コンポーネント設計
+- その他気になった技術を自由に試す
+
+■ 8. React基礎強化
+- useState
+- useEffect
+- useRef
+- useContext
+- useMemo
+- useCallback
+- Props
+- children
+- イベント処理
+- 条件分岐
+- mapによるリスト表示
+- フォーム処理
+- コンポーネント設計
+
+■ 9. 実践Todoアプリ
+- FirebaseまたはSupabase導入
+- ユーザー登録・ログイン
+- データベース保存
+- TodoのCRUD
+- データ取得
+- データ更新
+- データ削除
+- 認証ユーザーごとのデータ管理
+
+■ 10. React Lab全体の改善
+- 共通Header
+- 共通Footer
+- ページ間ナビゲーション
+- Homeのデザイン改善
+- ダークモード
+- レスポンシブ対応
+- 404ページ
+- Loading UI
+- Error UI
+- 共通コンポーネント化
+
+■ 11. 最終目標
+- Reactで自力で小さなアプリを作れるようにする
+- APIを使ったアプリを作れるようにする
+- データを保存するアプリを作れるようにする
+- Firebase / Supabaseを使えるようにする
+- Git / GitHubを使った開発に慣れる
+- 自分で考えて機能追加できるようにする
+- React Lab自体をポートフォリオとして使える状態にする
