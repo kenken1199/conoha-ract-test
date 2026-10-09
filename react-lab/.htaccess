@@ -1,7 +1,0 @@
-RewriteEngine On
-
-RewriteBase /react-lab/
-
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . /react-lab/index.html [L]
