@@ -1,6 +1,7 @@
 import { Routes, Route } from "react-router";
 import Home from "./pages/Home";
 import Counter from "./pages/Counter";
+import Todo from "./pages/Todo";
 
 function App() {
   return (
@@ -9,7 +10,7 @@ function App() {
 
       <Route path="/counter" element={<Counter />} />
 
-      <Route path="/todo" element={<h1>Todo</h1>} />
+      <Route path="/todo" element={<Todo />} />
 
       <Route path="/weather" element={<h1>Weather</h1>} />
 
